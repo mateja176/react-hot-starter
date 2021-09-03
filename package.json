@@ -48,7 +48,7 @@
     "firebase": "^7.3.0",
     "folktale": "^2.3.2",
     "formik": "^1.5.2",
-    "immer": "^3.1.1",
+    "immer": "^9.0.6",
     "immutable": "^4.0.0-rc.12",
     "lodash": "^4.17.11",
     "logrocket": "^1.0.1",
